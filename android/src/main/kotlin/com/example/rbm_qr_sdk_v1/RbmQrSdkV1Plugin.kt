@@ -67,73 +67,22 @@ class RbmQrSdkV1Plugin: FlutterPlugin, MethodCallHandler, ActivityAware {
             return
         }
 
-        // Verificar conectividad de red
-        val connectivityManager = currentActivity.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
-        val networkInfo = connectivityManager.activeNetworkInfo
-        val isConnected = networkInfo?.isConnected == true
-        
-        Log.d("RbmQrSdkV1", "Estado de red - Conectado: $isConnected, Tipo: ${networkInfo?.typeName}")
-        
-        if (!isConnected) {
-            Log.w("RbmQrSdkV1", "No hay conexión a internet disponible")
-        }
-
         val url = "https://rgw.1647-63a93ef4.us-south.apiconnect.appdomain.cloud/rbmcalidad/calidad/api/v1/prx-licenses/validate"
         val publicKey = "a3c7002d989e83a163a2648fcf8631bf:ec9008b76dea494ebc623c0dda976d30"
         val license = "763cd5d7b76152c82162692a59aa362dcc616e72173239ff14e34e649459516e"
 
         CoroutineScope(Dispatchers.IO).launch {
             try {
-                Log.d("RbmQrSdkV1", "Iniciando validación de licencia...")
-                Log.d("RbmQrSdkV1", "URL: $url")
-                Log.d("RbmQrSdkV1", "PublicKey: ${publicKey.take(10)}...")
-                Log.d("RbmQrSdkV1", "License: ${license.take(10)}...")
-                
                 val resp = QrManager.initializeLibrary(currentActivity, url, publicKey, license)
-                
-                Log.d("RbmQrSdkV1", "Respuesta recibida: $resp")
-                Log.d("RbmQrSdkV1", "Tipo de respuesta: ${resp::class.java.simpleName}")
-                
                 val isValid = resp.isRight()
-                Log.d("RbmQrSdkV1", "¿Es válida la respuesta? $isValid")
-                
-                // Logging adicional para debug
-                if (!isValid) {
-                    Log.w("RbmQrSdkV1", "Respuesta no válida. Contenido: $resp")
-                    // Si resp es Either, podemos obtener el error
-                    try {
-                        val errorMsg = resp.fold(
-                            { error -> 
-                                Log.e("RbmQrSdkV1", "Error de serialización detectado: $error")
-                                if (error.toString().contains("Serializer for class")) {
-                                    "ERROR DE SERIALIZACIÓN: Las clases del SDK fueron obfuscadas por ProGuard/R8. Se necesitan reglas de ProGuard."
-                                } else {
-                                    error.toString()
-                                }
-                            }, 
-                            { success -> 
-                                Log.w("RbmQrSdkV1", "Éxito pero isRight() devolvió false: $success")
-                                "Response is right but isRight() returned false: $success"
-                            }
-                        )
-                        Log.w("RbmQrSdkV1", "Error details: $errorMsg")
-                    } catch (e: Exception) {
-                        Log.w("RbmQrSdkV1", "No se pudo obtener detalles del error: ${e.message}")
-                    }
-                }
-
                 withContext(Dispatchers.Main) {
                     if (isValid) {
-                        Log.i("RbmQrSdkV1", "SDK RBM inicializado correctamente")
                         result.success(true)
                     } else {
-                        Log.w("RbmQrSdkV1", "Error al inicializar SDK RBM - La licencia no es válida o hay problemas de conectividad")
                         result.success(false)
                     }
                 }
             } catch (e: Exception) {
-                Log.e("RbmQrSdkV1", "Excepción durante la inicialización del SDK", e)
-                Log.e("RbmQrSdkV1", "Stack trace completo:", e)
                 withContext(Dispatchers.Main) {
                     result.error("INIT_ERROR", "Error inicializando SDK: ${e.message}", mapOf(
                         "exception_type" to e::class.java.simpleName,
@@ -151,7 +100,6 @@ class RbmQrSdkV1Plugin: FlutterPlugin, MethodCallHandler, ActivityAware {
         }
 
         val qrString = call.argument<String>("qrString")
-        Log.v("RbmQrSdkV1", "Transformando QR: $qrString")
         if (qrString.isNullOrEmpty()) {
             result.error("INVALID_INPUT", "QR string cannot be null or empty", null)
             return
@@ -161,8 +109,6 @@ class RbmQrSdkV1Plugin: FlutterPlugin, MethodCallHandler, ActivityAware {
             QrManager.transformData(
                 input = qrString,
                 scannedQrEntity = { qrEntity ->
-                    Log.v("RbmQrSdkV1", "QR transformado: ${qrEntity.emvcoList}")
-
                     // Extraer el tag 90 considerando ambos patrones (legacy y nuevo)
                     val qrTxIdValue = qrEntity.emvcoList
                         ?.filter { it.tag == "90" }
@@ -206,7 +152,6 @@ class RbmQrSdkV1Plugin: FlutterPlugin, MethodCallHandler, ActivityAware {
                             if (subtags.isNotEmpty()) subtags.joinToString("") else null
                         }
                         ?.joinToString("")
-                    Log.v("RbmQrSdkV1", "Valor de QrTxId (tag 90): $qrTxIdValue")
 
                     val qrData = mapOf(
                         "channel" to qrEntity.merchantUnreservedTemplamples?.channel,
@@ -237,7 +182,6 @@ class RbmQrSdkV1Plugin: FlutterPlugin, MethodCallHandler, ActivityAware {
                 },
                 scanError = { error ->
                     activity?.runOnUiThread {
-                        Log.e("RbmQrSdkV1", "Error al transformar QR: $error")
                         result.error("TRANSFORM_ERROR", error.toString(), null)
                     }
                 }
