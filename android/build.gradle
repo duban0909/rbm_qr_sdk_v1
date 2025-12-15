@@ -1,0 +1,103 @@
+group = "com.example.rbm_qr_sdk_v1"
+version = "1.0-SNAPSHOT"
+
+buildscript {
+    ext.kotlin_version = "2.1.0"
+    repositories {
+        google()
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath("com.android.tools.build:gradle:8.7.3")
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version")
+    }
+}
+
+apply plugin: "com.android.library"
+apply plugin: "kotlin-android"
+apply plugin: "maven-publish"
+
+android {
+    namespace = "com.example.rbm_qr_sdk_v1"
+    compileSdk = 35
+
+    defaultConfig {
+        minSdk = 21
+        consumerProguardFiles "proguard-rules.pro"   // ✔️ Única forma correcta
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_11
+    }
+
+    sourceSets {
+        main.java.srcDirs += "src/main/kotlin"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+        }
+        debug {
+            minifyEnabled false
+        }
+    }
+}
+
+afterEvaluate {
+    publishing {
+        publications {
+            sdkqrcore(MavenPublication) {
+                artifact file("src/libs/sdkqrcore-release.aar")
+                groupId = 'co.com.confiar'
+                artifactId = 'sdkqrcore'
+                version = '1.0.0'
+            }
+        }
+    }
+}
+
+configurations.all {
+    resolutionStrategy.eachDependency { details ->
+        if (details.requested.group == "io.ktor") {
+            details.useVersion "3.1.2"
+        }
+    }
+}
+
+dependencies {
+    implementation "co.com.confiar:sdkqrcore:1.0.0"
+
+    // Cámara y ZXing
+    implementation "com.journeyapps:zxing-android-embedded:4.3.0"
+    implementation "com.google.zxing:core:3.5.1"
+    implementation "androidx.camera:camera-core:1.5.0-beta01"
+    implementation "androidx.camera:camera-camera2:1.5.0-beta01"
+    implementation "androidx.camera:camera-lifecycle:1.5.0-beta01"
+    implementation "androidx.camera:camera-view:1.0.0-alpha37"
+    implementation "com.google.mlkit:barcode-scanning:17.3.0"
+
+    // Ktor
+    implementation "io.ktor:ktor-client-core:3.1.2"
+    implementation "io.ktor:ktor-client-android:3.1.2"
+    implementation "io.ktor:ktor-client-content-negotiation:3.1.2"
+    implementation "io.ktor:ktor-serialization-kotlinx-json:3.1.2"
+    implementation "io.ktor:ktor-client-logging:3.1.2"
+    implementation "io.ktor:ktor-client-okhttp:3.1.2"
+
+    // Corrutinas
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1"
+
+    // Arrow
+    implementation "io.arrow-kt:arrow-core:1.2.4"
+
+    // Accompanist Permissions (si lo usa el SDK)
+    implementation "com.google.accompanist:accompanist-permissions:0.32.0"
+}

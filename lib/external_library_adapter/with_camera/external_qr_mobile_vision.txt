@@ -1,0 +1,28 @@
+/*
+Funcionality:
+This file is part of the Flutter QR Scanner package.
+It provides an adapter for the QR scanner using the Mobile Vision library.
+
+Repository:
+https://pub.dev/packages/qr_mobile_vision/versions/5.0.1
+
+*/
+
+import 'package:flutter/src/widgets/framework.dart';
+import 'package:qr_mobile_vision/qr_camera.dart';
+import 'package:rbm_qr_sdk_v1/external_library_adapter/with_camera/qr_scanner_camera_adapter.dart';
+
+class ExternalQrMobileVision implements QrScannerCameraAdapter {
+  @override
+  Widget buildQrCamera({
+    required void Function(String? value) onQrCodeScanned,
+    required Widget Function(BuildContext context, Object? error) onError,
+  }) {
+    return QrCamera(onError: onError, qrCodeCallback: onQrCodeScanned);
+  }
+
+  @override
+  void toggleFlash() {
+    QrCamera.toggleFlash();
+  }
+}

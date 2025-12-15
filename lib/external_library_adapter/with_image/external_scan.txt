@@ -1,0 +1,56 @@
+import 'dart:convert';
+
+import 'package:qr_rbm_sdk_plugin/external_library_adapter/with_image/read_qr_with_image_adapter.dart';
+import 'package:qr_rbm_sdk_plugin/mappers/qr_mapper.dart';
+import 'package:qr_rbm_sdk_plugin/native_channel/qr_rbm_sdk_plugin_platform_interface.dart';
+import 'package:qr_rbm_sdk_plugin/qr_rbm_sdk_plugin.dart';
+import 'package:qr_rbm_sdk_plugin/utils/camera_gallery.dart';
+import 'package:scan/scan.dart';
+
+class ExternalScan implements ReadQrWithImage {
+  final nativeChannelInstance = QrRbmSdkPluginPlatform.instance;
+
+  @override
+  Future<QrModel?> readQrCodeFromImage() async {
+    final imagePath = await CameraGallery.selectPhoto();
+    if (imagePath == null) {
+      return null;
+    }
+
+    final rawData = await Scan.parse(imagePath);
+    if (rawData == null) {
+      return null;
+    }
+
+    if (validateQRString(rawData) == false) {
+      return null;
+    }
+
+    nativeChannelInstance.transformData(rawData);
+
+    await for (final qrData in nativeChannelInstance.onScanResponse) {
+      if (qrData.isNotEmpty) {
+        return QrMapper.fromJson(jsonDecode(qrData));
+      }
+    }
+
+    await for (final errorData in nativeChannelInstance.onErrorResponse) {
+      return null;
+    }
+
+    return null;
+  }
+
+  bool validateQRString(String qrData) {
+    final regex = RegExp(
+      r'CO\.COM\.RBM\.RED.*CO\.COM\.RBM\.CIVA.*CO\.COM\.RBM\.IVA',
+      dotAll: true,
+    );
+
+    if (regex.hasMatch(qrData)) {
+      return true;
+    }
+
+    return false;
+  }
+}

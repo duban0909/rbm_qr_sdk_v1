@@ -1,0 +1,132 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target arm64-apple-ios16.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name SdkQrCore
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+import AVFoundation
+import DeveloperToolsSupport
+import Foundation
+@_exported import SdkQrCore
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public struct QrEntity {
+  public var payloadFormatIndicator: Swift.String?
+  public var pointOfInitiationMethod: Swift.String?
+  public var crc: Swift.String?
+  public var merchantAccountInformation: SdkQrCore.MerchantAccountInformation?
+  public var merchantCategoryCode: Swift.String?
+  public var countryCode: Swift.String?
+  public var merchantName: Swift.String?
+  public var merchantCity: Swift.String?
+  public var postalCode: Swift.String?
+  public var merchantUnreservedTemplamples: SdkQrCore.MerchantUnreservedTemplates?
+  public var merchantInformationLanguageTemplate: SdkQrCore.MerchantInformationLanguage?
+  public var merchantAdditionalData: SdkQrCore.MerchantAdditionalData?
+  public var transactionAmount: Swift.String?
+  public var transactionCurrency: Swift.String?
+  public var tipOrConvenienceIndicator: Swift.String?
+  public var valueOfConvenienceFeeFixed: Swift.String?
+  public var valueOfConvenienceFeePercentage: Swift.String?
+  public var address: Swift.String?
+  public var totalAmount: Swift.String?
+  public var maxIVAPercentage: Swift.String?
+  public var maxINCPercentage: Swift.String?
+  public var rrn: Swift.String?
+  public var approvalNumber: Swift.String?
+}
+public struct MerchantAccountInformation {
+  public var idAcquirer: Swift.String?
+  public var uniqueCodeMerchant: Swift.String?
+  public var uniqueCodeMerchantAggre: Swift.String?
+  public var multikeyPayment: Swift.String?
+}
+public struct MerchantUnreservedTemplates {
+  public var channel: Swift.String?
+  public var conditionIVA: Swift.String?
+  public var valueIVA: Swift.String?
+  public var baseIVA: Swift.String?
+  public var conditionINC: Swift.String?
+  public var valueINC: Swift.String?
+  public var conditionTaxOne: Swift.String?
+  public var taxOne: Swift.String?
+  public var conditionTaxTwo: Swift.String?
+  public var taxTwo: Swift.String?
+  public var consecutiveTransaction: Swift.String?
+  public var securityField: Swift.String?
+  public var referencePayment: Swift.String?
+}
+public struct MerchantInformationLanguage {
+  public var languagePreference: Swift.String?
+  public var merchantNameAlternateLanguage: Swift.String?
+  public var merchantCityAlternateLanguage: Swift.String?
+}
+public struct MerchantAdditionalData {
+  public var billNumber: Swift.String?
+  public var mobileNumber: Swift.String?
+  public var storeLabel: Swift.String?
+  public var loyaltyNumber: Swift.String?
+  public var referenceLabel: Swift.String?
+  public var customerLabel: Swift.String?
+  public var terminalLabel: Swift.String?
+  public var purposeOfTransaction: Swift.String?
+  public var additionalConsumerDataRequest: Swift.String?
+}
+@_hasMissingDesignatedInitializers public class QrManagerImp {
+  public init()
+  @objc deinit
+}
+extension SdkQrCore.QrManagerImp : SdkQrCore.QrManager {
+  public func initializeLibrary(_ urlBase: Swift.String, publicKey: Swift.String, license: Swift.String, callbackLicense: any SdkQrCore.QrLicenseCallback)
+  public func calculateTaxStatic(_ entity: SdkQrCore.QrEntity, ivaPercentage: Swift.String, incPercentage: Swift.String, transactionAmount: Swift.String, tip: Swift.String) throws -> SdkQrCore.DataAmount
+  public func calculateTaxHybrid(_ entity: SdkQrCore.QrEntity, tip: Swift.String) throws -> SdkQrCore.DataAmount
+  public func calculateTaxDinamic(_ entity: SdkQrCore.QrEntity, tip: Swift.String) throws -> SdkQrCore.DataAmount
+  public func startScan(_ cameraId: AVFoundation.AVCaptureDevice.Position, viewController: UIKit.UIViewController, callbackResult: any SdkQrCore.QrManagerCallback)
+  public func transformData(_ qrData: Swift.String, callbackResult: any SdkQrCore.QrManagerCallback)
+}
+public protocol QrManagerCallback : SdkQrCore.QrErrorCallback {
+  func onScanResponse(_ qrData: Swift.String, qrEntity: SdkQrCore.QrEntity, qrBaseData: [SdkQrCore.KeyValueNode])
+}
+public struct KeyValueNode {
+  public var key: Swift.String
+  public var value: SdkQrCore.KeyValueNode.Value
+  public enum Value {
+    case empty
+    case dictionary([SdkQrCore.KeyValueNode])
+    case string(Swift.String)
+  }
+  public var stringValue: Swift.String {
+    get
+  }
+  public var dictionaryValue: [SdkQrCore.KeyValueNode] {
+    get
+  }
+}
+public struct DataAmount {
+  public var iva: Swift.Double?
+  public var inc: Swift.Double?
+  public var transactionAmount: Swift.Double?
+  public var baseAmount: Swift.Double?
+  public var totalAmount: Swift.Double?
+  public var tip: Swift.Double?
+}
+public protocol QrLicenseCallback : SdkQrCore.QrErrorCallback {
+  func checkInitializeScan(_ start: Swift.Bool)
+}
+@_hasMissingDesignatedInitializers public class SdkQrCoreInfo {
+  public static let version: Swift.String?
+  @objc deinit
+}
+public protocol QrManager {
+  func initializeLibrary(_ urlBase: Swift.String, publicKey: Swift.String, license: Swift.String, callbackLicense: any SdkQrCore.QrLicenseCallback)
+  func startScan(_ cameraId: AVFoundation.AVCaptureDevice.Position, viewController: UIKit.UIViewController, callbackResult: any SdkQrCore.QrManagerCallback)
+  func transformData(_ qrData: Swift.String, callbackResult: any SdkQrCore.QrManagerCallback)
+  func calculateTaxStatic(_ entity: SdkQrCore.QrEntity, ivaPercentage: Swift.String, incPercentage: Swift.String, transactionAmount: Swift.String, tip: Swift.String) throws -> SdkQrCore.DataAmount
+  func calculateTaxHybrid(_ entity: SdkQrCore.QrEntity, tip: Swift.String) throws -> SdkQrCore.DataAmount
+  func calculateTaxDinamic(_ entity: SdkQrCore.QrEntity, tip: Swift.String) throws -> SdkQrCore.DataAmount
+}
+public protocol QrErrorCallback {
+  func onErrorShow(_ errorType: Swift.Int, message: Swift.String, detail: Swift.String?)
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">rgw.1647-63a93ef4.us-south.apiconnect.appdomain.cloud</domain>
+        <trust-anchors>
+            <!-- Trust system certificates -->
+            <certificates src="system"/>
+            <!-- Trust user added CA certificates -->
+            <certificates src="user"/>
+        </trust-anchors>
+    </domain-config>
+    
+    <!-- Base config for HTTPS -->
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system"/>
+        </trust-anchors>
+    </base-config>
+</network-security-config>
