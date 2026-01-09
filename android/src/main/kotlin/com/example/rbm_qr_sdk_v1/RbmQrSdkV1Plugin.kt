@@ -3,7 +3,6 @@ package com.example.rbm_qr_sdk_v1
 import android.app.Activity
 import android.content.Context
 import android.net.ConnectivityManager
-import android.util.Log
 import com.redeban.sdkqrcore.domain.QrManager
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.embedding.engine.plugins.activity.ActivityAware
@@ -153,7 +152,7 @@ class RbmQrSdkV1Plugin: FlutterPlugin, MethodCallHandler, ActivityAware {
                         }
                         ?.joinToString("")
 
-                    val qrData = mapOf(
+                    val qrData: Map<String, Any?> = mapOf(
                         "channel" to qrEntity.merchantUnreservedTemplamples?.channel,
                         "merchantCity" to qrEntity.merchantCity,
                         "ivaTaxIndicator" to "01",
@@ -169,25 +168,20 @@ class RbmQrSdkV1Plugin: FlutterPlugin, MethodCallHandler, ActivityAware {
                         "SecurityCode" to qrEntity.merchantUnreservedTemplamples?.securityField,
                         "merchantName" to qrEntity.merchantName,
                         "storeLabel" to qrEntity.merchantAdditionalData?.storeLabel,
-                        "transactionCurrency" to qrEntity.transactionAmount,
+                        "transactionCurrency" to qrEntity.transactionCurrency,
                         "rrn" to qrEntity.rrn,
                         "approvalNumber" to qrEntity.approvalNumber,
                         "idAcquirer" to qrEntity.merchantAccountInformation?.idAcquirer,
                         "QrTxId" to qrTxIdValue
                     )
 
-                    activity?.runOnUiThread {
-                        result.success(qrData)
-                    }
+                    result.success(qrData)
                 },
                 scanError = { error ->
-                    activity?.runOnUiThread {
-                        result.error("TRANSFORM_ERROR", error.toString(), null)
-                    }
+                    result.error("TRANSFORM_ERROR", error.toString(), null)
                 }
             )
         } catch (e: Exception) {
-            Log.e("RbmQrSdkV1", "Excepción al transformar QR", e)
             result.error("TRANSFORM_EXCEPTION", e.message, null)
         }
     }

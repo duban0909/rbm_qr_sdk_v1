@@ -53,7 +53,7 @@ public class RbmQrSdkV1Plugin: NSObject,
 extension RbmQrSdkV1Plugin {
 
     func initializeLibrary(result: @escaping FlutterResult) {
-        print("🔹 Inicializando SDK RBM iOS")
+        print("Inicializando SDK RBM iOS")
 
         manager = QrManagerImp()
 
@@ -68,7 +68,7 @@ extension RbmQrSdkV1Plugin {
     }
 
     public func checkInitializeScan(_ start: Bool) {
-        print("✅ Licencia validada iOS: \(start)")
+        print("Licencia validada iOS: \(start)")
     }
 }
 
@@ -95,7 +95,7 @@ extension RbmQrSdkV1Plugin {
         qrEntity: QrEntity,
         qrBaseData: [KeyValueNode]
     ) {
-        print("✅ QR transformado correctamente iOS")
+        print("QR transformado correctamente iOS")
 
         let qrTxIdValue = extractQrTxId(from: qrBaseData)
 
@@ -122,7 +122,7 @@ extension RbmQrSdkV1Plugin {
             "QrTxId": qrTxIdValue
         ]
 
-        // 🔥 RESPUESTA ÚNICA Y SEGURA
+       
         pendingResult?(response.compactMapValues { $0 })
         pendingResult = nil
     }
@@ -132,7 +132,7 @@ extension RbmQrSdkV1Plugin {
 extension RbmQrSdkV1Plugin {
 
     public func onErrorShow(_ errorType: Int, message: String, detail: String?) {
-        print("❌ Error SDK iOS: \(message) \(detail ?? "")")
+        print("Error SDK iOS: \(message) \(detail ?? "")")
 
         pendingResult?(FlutterError(
             code: "TRANSFORM_ERROR",
@@ -157,7 +157,7 @@ extension RbmQrSdkV1Plugin {
         let tag00 = dict.first(where: { $0.key == "00" })?.stringValue ?? ""
         let tag01 = dict.first(where: { $0.key == "01" })?.stringValue ?? ""
 
-        // 🔥 SIEMPRE 00 + 01 (legacy o nuevo)
+        
         return tag00 + tag01
     }
 }

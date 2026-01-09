@@ -6576,16 +6576,6 @@
         ]
       },
       {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "SdkQrCore",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
         "kind": "TypeDecl",
         "name": "QrManagerCallback",
         "printedName": "QrManagerCallback",
@@ -9068,1736 +9058,1750 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag58CountryCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag58CountryCode.swift",
       "kind": "StringLiteral",
       "offset": 175,
       "length": 4,
       "value": "\"58\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag58CountryCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag58CountryCode.swift",
       "kind": "BooleanLiteral",
       "offset": 207,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag58CountryCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag58CountryCode.swift",
       "kind": "IntegerLiteral",
       "offset": 239,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
       "kind": "StringLiteral",
       "offset": 160,
       "length": 4,
       "value": "\"50\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
       "kind": "BooleanLiteral",
       "offset": 192,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
       "kind": "IntegerLiteral",
       "offset": 225,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
       "kind": "StringLiteral",
       "offset": 438,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
       "kind": "BooleanLiteral",
       "offset": 470,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
       "kind": "IntegerLiteral",
       "offset": 503,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
       "kind": "StringLiteral",
       "offset": 759,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
       "kind": "BooleanLiteral",
       "offset": 791,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag50UniqueCode.swift",
       "kind": "IntegerLiteral",
       "offset": 824,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag56TipValue.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag56TipValue.swift",
       "kind": "StringLiteral",
       "offset": 169,
       "length": 4,
       "value": "\"56\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag56TipValue.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag56TipValue.swift",
       "kind": "BooleanLiteral",
       "offset": 201,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag56TipValue.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag56TipValue.swift",
       "kind": "IntegerLiteral",
       "offset": 234,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
       "kind": "StringLiteral",
       "offset": 193,
       "length": 4,
       "value": "\"64\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
       "kind": "BooleanLiteral",
       "offset": 225,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
       "kind": "IntegerLiteral",
       "offset": 258,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
       "kind": "StringLiteral",
       "offset": 1231,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
       "kind": "BooleanLiteral",
       "offset": 1263,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
       "kind": "IntegerLiteral",
       "offset": 1296,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
       "kind": "StringLiteral",
       "offset": 1631,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
       "kind": "BooleanLiteral",
       "offset": 1663,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
       "kind": "IntegerLiteral",
       "offset": 1696,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
       "kind": "StringLiteral",
       "offset": 2043,
       "length": 4,
       "value": "\"02\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
       "kind": "BooleanLiteral",
       "offset": 2075,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag64MerchantInfoLanguage.swift",
       "kind": "IntegerLiteral",
       "offset": 2108,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
       "kind": "StringLiteral",
       "offset": 185,
       "length": 4,
       "value": "\"81\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
       "kind": "BooleanLiteral",
       "offset": 217,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
       "kind": "IntegerLiteral",
       "offset": 249,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
       "kind": "StringLiteral",
       "offset": 464,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
       "kind": "BooleanLiteral",
       "offset": 496,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
       "kind": "IntegerLiteral",
       "offset": 529,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
       "kind": "StringLiteral",
       "offset": 787,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
       "kind": "BooleanLiteral",
       "offset": 819,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag81ConditionIVA.swift",
       "kind": "IntegerLiteral",
       "offset": 851,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
       "kind": "StringLiteral",
       "offset": 187,
       "length": 4,
       "value": "\"51\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
       "kind": "BooleanLiteral",
       "offset": 219,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 252,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
       "kind": "StringLiteral",
       "offset": 468,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
       "kind": "BooleanLiteral",
       "offset": 500,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
       "kind": "IntegerLiteral",
       "offset": 533,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
       "kind": "StringLiteral",
       "offset": 792,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
       "kind": "BooleanLiteral",
       "offset": 824,
-      "length": 4,
-      "value": "true"
+      "length": 5,
+      "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag51AgregatorCode.swift",
       "kind": "IntegerLiteral",
-      "offset": 856,
+      "offset": 857,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "StringLiteral",
       "offset": 181,
       "length": 4,
       "value": "\"62\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "BooleanLiteral",
       "offset": 213,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "IntegerLiteral",
       "offset": 246,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "StringLiteral",
       "offset": 1447,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "BooleanLiteral",
       "offset": 1479,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "IntegerLiteral",
       "offset": 1512,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "StringLiteral",
       "offset": 1830,
       "length": 4,
       "value": "\"02\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "BooleanLiteral",
       "offset": 1862,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "IntegerLiteral",
       "offset": 1895,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "StringLiteral",
       "offset": 2213,
       "length": 4,
       "value": "\"03\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "BooleanLiteral",
       "offset": 2245,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "IntegerLiteral",
       "offset": 2278,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "StringLiteral",
       "offset": 2594,
       "length": 4,
       "value": "\"04\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "BooleanLiteral",
       "offset": 2626,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "IntegerLiteral",
       "offset": 2659,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "StringLiteral",
       "offset": 2982,
       "length": 4,
       "value": "\"05\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "BooleanLiteral",
       "offset": 3014,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "IntegerLiteral",
       "offset": 3047,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "StringLiteral",
       "offset": 3367,
       "length": 4,
       "value": "\"06\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "BooleanLiteral",
       "offset": 3399,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "IntegerLiteral",
       "offset": 3432,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "StringLiteral",
       "offset": 3746,
       "length": 4,
       "value": "\"07\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "BooleanLiteral",
       "offset": 3778,
-      "length": 4,
-      "value": "true"
+      "length": 5,
+      "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "IntegerLiteral",
-      "offset": 3810,
+      "offset": 3811,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "StringLiteral",
-      "offset": 4136,
+      "offset": 4137,
       "length": 4,
       "value": "\"08\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "BooleanLiteral",
-      "offset": 4168,
-      "length": 4,
-      "value": "true"
+      "offset": 4169,
+      "length": 5,
+      "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "IntegerLiteral",
-      "offset": 4200,
+      "offset": 4202,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "StringLiteral",
-      "offset": 4545,
+      "offset": 4547,
       "length": 4,
       "value": "\"09\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "BooleanLiteral",
-      "offset": 4577,
+      "offset": 4579,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "IntegerLiteral",
-      "offset": 4610,
+      "offset": 4612,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "StringLiteral",
-      "offset": 4944,
+      "offset": 4946,
       "length": 4,
       "value": "\"10\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "BooleanLiteral",
-      "offset": 4976,
+      "offset": 4978,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "IntegerLiteral",
-      "offset": 5009,
+      "offset": 5011,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "StringLiteral",
-      "offset": 5271,
+      "offset": 5273,
       "length": 4,
       "value": "\"11\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "BooleanLiteral",
-      "offset": 5303,
+      "offset": 5305,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag62AdditionalData.swift",
       "kind": "IntegerLiteral",
-      "offset": 5336,
+      "offset": 5338,
       "length": 1,
-      "value": "3"
+      "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
       "kind": "StringLiteral",
       "offset": 175,
       "length": 4,
       "value": "\"83\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
       "kind": "BooleanLiteral",
       "offset": 207,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
       "kind": "IntegerLiteral",
       "offset": 239,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
       "kind": "StringLiteral",
       "offset": 449,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
       "kind": "BooleanLiteral",
       "offset": 481,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
       "kind": "IntegerLiteral",
       "offset": 514,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
       "kind": "StringLiteral",
       "offset": 767,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
       "kind": "BooleanLiteral",
       "offset": 799,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag83BaseIVA.swift",
       "kind": "IntegerLiteral",
       "offset": 831,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/Licence\/LicenceStateUseCase\/LicenceStateImpl.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/Licence\/LicenceStateUseCase\/LicenceStateImpl.swift",
       "kind": "BooleanLiteral",
       "offset": 190,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag52MerchantCategoryCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag52MerchantCategoryCode.swift",
       "kind": "StringLiteral",
       "offset": 193,
       "length": 4,
       "value": "\"52\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag52MerchantCategoryCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag52MerchantCategoryCode.swift",
       "kind": "BooleanLiteral",
       "offset": 225,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag52MerchantCategoryCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag52MerchantCategoryCode.swift",
       "kind": "IntegerLiteral",
       "offset": 257,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/IvaCondition.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/IvaCondition.swift",
       "kind": "StringLiteral",
       "offset": 169,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/IvaCondition.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/IvaCondition.swift",
       "kind": "StringLiteral",
       "offset": 235,
       "length": 4,
       "value": "\"02\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/IvaCondition.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/IvaCondition.swift",
       "kind": "StringLiteral",
       "offset": 299,
       "length": 4,
       "value": "\"03\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
       "kind": "StringLiteral",
       "offset": 193,
       "length": 4,
       "value": "\"93\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
       "kind": "BooleanLiteral",
       "offset": 225,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
       "kind": "IntegerLiteral",
       "offset": 258,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
       "kind": "StringLiteral",
       "offset": 477,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
       "kind": "BooleanLiteral",
       "offset": 509,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
       "kind": "IntegerLiteral",
       "offset": 542,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
       "kind": "StringLiteral",
       "offset": 804,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
       "kind": "BooleanLiteral",
       "offset": 836,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag93ReferencePayment.swift",
       "kind": "IntegerLiteral",
       "offset": 869,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
       "kind": "StringLiteral",
       "offset": 175,
       "length": 4,
       "value": "\"80\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
       "kind": "BooleanLiteral",
       "offset": 207,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
       "kind": "IntegerLiteral",
       "offset": 239,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
       "kind": "StringLiteral",
       "offset": 449,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
       "kind": "BooleanLiteral",
       "offset": 481,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
       "kind": "IntegerLiteral",
       "offset": 514,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
       "kind": "StringLiteral",
       "offset": 767,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
       "kind": "BooleanLiteral",
       "offset": 799,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag80Channel.swift",
       "kind": "IntegerLiteral",
       "offset": 831,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
       "kind": "StringLiteral",
       "offset": 187,
       "length": 4,
       "value": "\"91\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
       "kind": "BooleanLiteral",
       "offset": 219,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
       "kind": "IntegerLiteral",
       "offset": 251,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
       "kind": "StringLiteral",
       "offset": 466,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
       "kind": "BooleanLiteral",
       "offset": 498,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
       "kind": "IntegerLiteral",
       "offset": 531,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
       "kind": "StringLiteral",
       "offset": 789,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
       "kind": "BooleanLiteral",
       "offset": 821,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag91SecurityField.swift",
       "kind": "IntegerLiteral",
       "offset": 853,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag54TransactionAmount.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag54TransactionAmount.swift",
       "kind": "StringLiteral",
       "offset": 187,
       "length": 4,
       "value": "\"54\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag54TransactionAmount.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag54TransactionAmount.swift",
       "kind": "BooleanLiteral",
       "offset": 219,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag54TransactionAmount.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag54TransactionAmount.swift",
       "kind": "IntegerLiteral",
       "offset": 252,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag01InitationMethod.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Data\/Repositories\/AcquirerApi\/AcquirerApiImpl.swift",
+      "kind": "IntegerLiteral",
+      "offset": 441,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Data\/Repositories\/AcquirerApi\/AcquirerApiImpl.swift",
+      "kind": "IntegerLiteral",
+      "offset": 488,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag01InitationMethod.swift",
       "kind": "StringLiteral",
       "offset": 183,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag01InitationMethod.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag01InitationMethod.swift",
       "kind": "BooleanLiteral",
       "offset": 215,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag01InitationMethod.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag01InitationMethod.swift",
       "kind": "IntegerLiteral",
       "offset": 247,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag55TipIndicator.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag55TipIndicator.swift",
       "kind": "StringLiteral",
       "offset": 177,
       "length": 4,
       "value": "\"55\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag55TipIndicator.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag55TipIndicator.swift",
       "kind": "BooleanLiteral",
       "offset": 209,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag55TipIndicator.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag55TipIndicator.swift",
       "kind": "IntegerLiteral",
       "offset": 242,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag57TipPercentage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag57TipPercentage.swift",
       "kind": "StringLiteral",
       "offset": 179,
       "length": 4,
       "value": "\"57\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag57TipPercentage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag57TipPercentage.swift",
       "kind": "BooleanLiteral",
       "offset": 211,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag57TipPercentage.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag57TipPercentage.swift",
       "kind": "IntegerLiteral",
       "offset": 244,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag63CRC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag63CRC.swift",
       "kind": "StringLiteral",
       "offset": 159,
       "length": 4,
       "value": "\"63\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag63CRC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag63CRC.swift",
       "kind": "BooleanLiteral",
       "offset": 191,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag63CRC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag63CRC.swift",
       "kind": "IntegerLiteral",
       "offset": 223,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/TipCondition.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/TipCondition.swift",
       "kind": "StringLiteral",
       "offset": 167,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/TipCondition.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/TipCondition.swift",
       "kind": "StringLiteral",
       "offset": 245,
       "length": 4,
       "value": "\"02\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/TipCondition.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/TipCondition.swift",
       "kind": "StringLiteral",
       "offset": 326,
       "length": 4,
       "value": "\"03\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
       "kind": "StringLiteral",
       "offset": 185,
       "length": 4,
       "value": "\"84\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
       "kind": "BooleanLiteral",
       "offset": 217,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
       "kind": "IntegerLiteral",
       "offset": 249,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
       "kind": "StringLiteral",
       "offset": 464,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
       "kind": "BooleanLiteral",
       "offset": 496,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
       "kind": "IntegerLiteral",
       "offset": 529,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
       "kind": "StringLiteral",
       "offset": 787,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
       "kind": "BooleanLiteral",
       "offset": 819,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag84ConditionINC.swift",
       "kind": "IntegerLiteral",
       "offset": 851,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
       "kind": "StringLiteral",
       "offset": 177,
       "length": 4,
       "value": "\"82\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
       "kind": "BooleanLiteral",
       "offset": 209,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
       "kind": "IntegerLiteral",
       "offset": 241,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
       "kind": "StringLiteral",
       "offset": 452,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
       "kind": "BooleanLiteral",
       "offset": 484,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
       "kind": "IntegerLiteral",
       "offset": 517,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
       "kind": "StringLiteral",
       "offset": 771,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
       "kind": "BooleanLiteral",
       "offset": 803,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag82ValueIVA.swift",
       "kind": "IntegerLiteral",
       "offset": 835,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/IncCondition.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/IncCondition.swift",
       "kind": "StringLiteral",
       "offset": 169,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/IncCondition.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/IncCondition.swift",
       "kind": "StringLiteral",
       "offset": 235,
       "length": 4,
       "value": "\"02\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/IncCondition.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/IncCondition.swift",
       "kind": "StringLiteral",
       "offset": 299,
       "length": 4,
       "value": "\"03\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Presentation\/Views\/QrScannerViewController.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Presentation\/Views\/QrScannerViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1519,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Presentation\/Views\/QrScannerViewController.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Presentation\/Views\/QrScannerViewController.swift",
       "kind": "StringLiteral",
       "offset": 1756,
       "length": 12,
       "value": "\"close-icon\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Presentation\/Views\/QrScannerViewController.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Presentation\/Views\/QrScannerViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1886,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Presentation\/Views\/QrScannerViewController.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Presentation\/Views\/QrScannerViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1970,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag53CurrencyCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag53CurrencyCode.swift",
       "kind": "StringLiteral",
       "offset": 177,
       "length": 4,
       "value": "\"53\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag53CurrencyCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag53CurrencyCode.swift",
       "kind": "BooleanLiteral",
       "offset": 209,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag53CurrencyCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag53CurrencyCode.swift",
       "kind": "IntegerLiteral",
       "offset": 241,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/SdkQrCoreInfo.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/SdkQrCoreInfo.swift",
       "kind": "StringLiteral",
       "offset": 339,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/TagHandlerRegistry.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/TagHandlerRegistry.swift",
       "kind": "Dictionary",
       "offset": 192,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag00PayloadFormat.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag00PayloadFormat.swift",
       "kind": "StringLiteral",
       "offset": 183,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag00PayloadFormat.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag00PayloadFormat.swift",
       "kind": "BooleanLiteral",
       "offset": 215,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag00PayloadFormat.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag00PayloadFormat.swift",
       "kind": "IntegerLiteral",
       "offset": 247,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
       "kind": "StringLiteral",
       "offset": 177,
       "length": 4,
       "value": "\"85\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
       "kind": "BooleanLiteral",
       "offset": 209,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
       "kind": "IntegerLiteral",
       "offset": 241,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
       "kind": "StringLiteral",
       "offset": 452,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
       "kind": "BooleanLiteral",
       "offset": 484,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
       "kind": "IntegerLiteral",
       "offset": 517,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
       "kind": "StringLiteral",
       "offset": 771,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
       "kind": "BooleanLiteral",
       "offset": 803,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag85ValueINC.swift",
       "kind": "IntegerLiteral",
       "offset": 835,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
       "kind": "StringLiteral",
       "offset": 199,
       "length": 4,
       "value": "\"49\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
       "kind": "BooleanLiteral",
       "offset": 231,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
       "kind": "IntegerLiteral",
       "offset": 263,
       "length": 2,
-      "value": "25"
+      "value": "27"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
       "kind": "StringLiteral",
       "offset": 477,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
       "kind": "BooleanLiteral",
       "offset": 509,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
       "kind": "IntegerLiteral",
       "offset": 542,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
       "kind": "StringLiteral",
       "offset": 798,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
       "kind": "BooleanLiteral",
       "offset": 830,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag49AcquirerInformation.swift",
       "kind": "IntegerLiteral",
       "offset": 862,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag59MerchantName.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag59MerchantName.swift",
       "kind": "StringLiteral",
       "offset": 177,
       "length": 4,
       "value": "\"59\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag59MerchantName.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag59MerchantName.swift",
       "kind": "BooleanLiteral",
       "offset": 209,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag59MerchantName.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag59MerchantName.swift",
       "kind": "IntegerLiteral",
       "offset": 241,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "StringLiteral",
       "offset": 181,
       "length": 4,
       "value": "\"26\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "BooleanLiteral",
       "offset": 213,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "IntegerLiteral",
       "offset": 246,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "StringLiteral",
       "offset": 578,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "BooleanLiteral",
       "offset": 610,
-      "length": 4,
-      "value": "true"
+      "length": 5,
+      "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "IntegerLiteral",
-      "offset": 642,
+      "offset": 643,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "StringLiteral",
-      "offset": 902,
+      "offset": 903,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "BooleanLiteral",
-      "offset": 934,
+      "offset": 935,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "IntegerLiteral",
-      "offset": 967,
+      "offset": 968,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "StringLiteral",
-      "offset": 1290,
+      "offset": 1291,
       "length": 4,
       "value": "\"02\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "BooleanLiteral",
-      "offset": 1322,
+      "offset": 1323,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "IntegerLiteral",
-      "offset": 1355,
+      "offset": 1356,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "StringLiteral",
-      "offset": 1671,
+      "offset": 1672,
       "length": 4,
       "value": "\"03\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "BooleanLiteral",
-      "offset": 1703,
+      "offset": 1704,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "IntegerLiteral",
-      "offset": 1736,
+      "offset": 1737,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "StringLiteral",
-      "offset": 2059,
+      "offset": 2060,
       "length": 4,
       "value": "\"04\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "BooleanLiteral",
-      "offset": 2091,
+      "offset": 2092,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "IntegerLiteral",
-      "offset": 2124,
+      "offset": 2125,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "StringLiteral",
-      "offset": 2445,
+      "offset": 2446,
       "length": 4,
       "value": "\"05\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "BooleanLiteral",
-      "offset": 2477,
+      "offset": 2478,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag26PaymentKey.swift",
       "kind": "IntegerLiteral",
-      "offset": 2510,
+      "offset": 2511,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag61PostalCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag61PostalCode.swift",
       "kind": "StringLiteral",
       "offset": 173,
       "length": 4,
       "value": "\"61\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag61PostalCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag61PostalCode.swift",
       "kind": "BooleanLiteral",
       "offset": 205,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag61PostalCode.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag61PostalCode.swift",
       "kind": "IntegerLiteral",
       "offset": 237,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/QrType.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/QrType.swift",
       "kind": "StringLiteral",
       "offset": 148,
       "length": 4,
       "value": "\"11\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/QrType.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/EMVCo\/QrType.swift",
       "kind": "StringLiteral",
       "offset": 173,
       "length": 4,
       "value": "\"12\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/Licence\/Server\/LicenceCheckResponse.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/Licence\/Server\/LicenceCheckResponse.swift",
       "kind": "StringLiteral",
       "offset": 271,
       "length": 6,
       "value": "\"Code\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/Licence\/Server\/LicenceCheckResponse.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Entities\/Licence\/Server\/LicenceCheckResponse.swift",
       "kind": "StringLiteral",
       "offset": 301,
       "length": 9,
       "value": "\"Message\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag60MerchantCity.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag60MerchantCity.swift",
       "kind": "StringLiteral",
       "offset": 177,
       "length": 4,
       "value": "\"60\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag60MerchantCity.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag60MerchantCity.swift",
       "kind": "BooleanLiteral",
       "offset": 209,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag60MerchantCity.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag60MerchantCity.swift",
       "kind": "IntegerLiteral",
       "offset": 241,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
       "kind": "StringLiteral",
       "offset": 205,
       "length": 4,
       "value": "\"90\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
       "kind": "BooleanLiteral",
       "offset": 237,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
       "kind": "IntegerLiteral",
       "offset": 269,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
       "kind": "StringLiteral",
       "offset": 485,
       "length": 4,
       "value": "\"00\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
       "kind": "BooleanLiteral",
       "offset": 517,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
       "kind": "IntegerLiteral",
       "offset": 550,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
       "kind": "StringLiteral",
       "offset": 809,
       "length": 4,
       "value": "\"01\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
       "kind": "BooleanLiteral",
       "offset": 841,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/UseCases\/EMVCo\/TagHandlerUseCase\/Tags\/Tag90TransactionConsecutive.swift",
       "kind": "IntegerLiteral",
       "offset": 873,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
       "kind": "Array",
       "offset": 188,
       "length": 79,
       "value": "[\"redeban.com\", \"apiconnect.appdomain.cloud\"]"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 305,
       "length": 7,
       "value": "\"https\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 375,
       "length": 20,
       "value": "\"La URL es invalida\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 432,
       "length": 26,
       "value": "\"La URL no esta soportada\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 523,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 558,
       "length": 8,
       "value": "\"000201\""
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 607,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 666,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 706,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 745,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/tmp\/codebuild-a65246b8-ac50-4b94-a75d-4ee221a0eb29\/output\/src3668\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
+      "filePath": "\/tmp\/codebuild-37d1aa1d-dd3f-4ccc-8cbb-e4e6f559ce60\/output\/src3998\/src\/s3\/01\/SdkQrCore\/SdkQrCore\/Domain\/Core\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 784,
       "length": 6,
       "value": "\"6304\""
     },
     {
-      "filePath": "\/Users\/cbuser\/Library\/Developer\/Xcode\/DerivedData\/SdkQrCore-gbdeatddkoijpygtosgfygdwowao\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SdkQrCore\/IntermediateBuildFilesPath\/SdkQrCore.build\/Release-iphonesimulator\/SdkQrCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/cbuser\/Library\/Developer\/Xcode\/DerivedData\/SdkQrCore-gyluqfwbxrezikbyyofwzukiqeek\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SdkQrCore\/IntermediateBuildFilesPath\/SdkQrCore.build\/Release-iphonesimulator\/SdkQrCore.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 778,
       "length": 12,
